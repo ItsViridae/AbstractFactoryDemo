@@ -9,3 +9,14 @@ C:\Users\scomeaux\source\repos\AbstractFactory\AbstractFactory\obj\Debug\netcore
 C:\Users\scomeaux\source\repos\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.AssemblyInfo.cs
 C:\Users\scomeaux\source\repos\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.dll
 C:\Users\scomeaux\source\repos\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.pdb
+C:\Users\Viridae\source\repos\AbstractFactoryDemo\obj\Debug\netcoreapp2.2\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\Viridae\source\repos\AbstractFactoryDemo\obj\Debug\netcoreapp2.2\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Viridae\source\repos\AbstractFactoryDemo\obj\Debug\netcoreapp2.2\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Viridae\source\repos\AbstractFactoryDemo\obj\Debug\netcoreapp2.2\AbstractFactory.AssemblyInfo.cs
+C:\Users\Viridae\source\repos\AbstractFactoryDemo\obj\Debug\netcoreapp2.2\AbstractFactory.dll
+C:\Users\Viridae\source\repos\AbstractFactoryDemo\obj\Debug\netcoreapp2.2\AbstractFactory.pdb
+C:\Users\Viridae\source\repos\AbstractFactoryDemo\bin\Debug\netcoreapp2.2\AbstractFactory.deps.json
+C:\Users\Viridae\source\repos\AbstractFactoryDemo\bin\Debug\netcoreapp2.2\AbstractFactory.runtimeconfig.json
+C:\Users\Viridae\source\repos\AbstractFactoryDemo\bin\Debug\netcoreapp2.2\AbstractFactory.runtimeconfig.dev.json
+C:\Users\Viridae\source\repos\AbstractFactoryDemo\bin\Debug\netcoreapp2.2\AbstractFactory.dll
+C:\Users\Viridae\source\repos\AbstractFactoryDemo\bin\Debug\netcoreapp2.2\AbstractFactory.pdb

@@ -686,27 +686,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\scomeaux\\.nuget\\packages\\": {},
-    "C:\\ProgramData\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\Viridae\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\scomeaux\\source\\repos\\AbstractFactory\\AbstractFactory\\AbstractFactory.csproj",
+      "projectUniqueName": "C:\\Users\\Viridae\\source\\repos\\AbstractFactoryDemo\\AbstractFactory.csproj",
       "projectName": "AbstractFactory",
-      "projectPath": "C:\\Users\\scomeaux\\source\\repos\\AbstractFactory\\AbstractFactory\\AbstractFactory.csproj",
-      "packagesPath": "C:\\Users\\scomeaux\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\scomeaux\\source\\repos\\AbstractFactory\\AbstractFactory\\obj\\",
+      "projectPath": "C:\\Users\\Viridae\\source\\repos\\AbstractFactoryDemo\\AbstractFactory.csproj",
+      "packagesPath": "C:\\Users\\Viridae\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Viridae\\source\\repos\\AbstractFactoryDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\ProgramData\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\scomeaux\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Viridae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
